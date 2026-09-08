@@ -1,0 +1,4 @@
+interface:
+  display_name: "万事万物 ROI 决策计算器"
+  short_description: "联网查证想法，计算收益、全部代价、情景与隐藏条件，支持行动决策"
+  default_prompt: "请使用 $universal-roi 评估我的想法，结合联网证据分析收益、全部代价、最好与最坏情景，并给出可验证的行动方案。"
