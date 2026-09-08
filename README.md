@@ -1,5 +1,8 @@
-# Universal-ROI-Analyzer-ROI- 在承诺投入之前，先把账算明白
-Decision-grade AI skill for evidence-backed ROI, hidden costs, scenario analysis, and actionable next steps. 决策级人工智能技能，用于提供基于证据的投资回报率、隐藏成本、情景分析和可操作的后续步骤。
+# Universal-ROI-Analyzer-ROI
+在承诺投入之前，先把账算明白
+Decision-grade AI skill for evidence-backed ROI, hidden costs, scenario analysis, and actionable next steps. 
+决策级人工智能技能，用于提供基于证据的投资回报率、隐藏成本、情景分析和可操作的后续步骤。
+
 **一个决策级 AI Skill：把任何想法转成有证据支撑的 ROI 分析，明确你能得到什么、真正要付出什么、哪里可能失败，以及最值得先做的下一步。**
 
 [English](README.md) · [它解决什么问题](#它解决什么问题) · [如何使用](#如何使用) · [它如何思考](#它如何思考) · [许可证](#许可证)
