@@ -1,4 +1,4 @@
-# Universal-ROI-Analyzer（万事万物ROI得失计算器）
+# Universal-ROI-Analyzer（万事万物ROI得失计算器.skill）
 在承诺投入之前，先把账算明白
 
 Decision-grade AI skill for evidence-backed ROI, hidden costs, scenario analysis, and actionable next steps. 
